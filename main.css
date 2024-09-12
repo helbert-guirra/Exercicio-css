@@ -110,6 +110,14 @@ section h2 {
     background-color: rgb(96, 135, 151);
 }
 
+#entertainment .articles article a {
+    background-color: #5a6b71;
+}
+
 #technology {
     background-color: aquamarine;
+}
+
+#technology .articles article a {
+    background-color: rgb(90, 142, 124);
 }
